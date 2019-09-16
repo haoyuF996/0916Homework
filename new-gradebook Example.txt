@@ -1,0 +1,8 @@
+02 Julian Ye 100 100 88 96
+04 Shirley Zeng 96 96 68 86
+05 Nico Jiang 89 90 91 90
+06 Tim Xing 79 100 96 91
+08 Andy Zhang 92 100 64 85
+10 Brian Dan 98 100 81 93
+11 Harry Fang 99 97 98 98
+12 Jack Jin 100 100 80 93
